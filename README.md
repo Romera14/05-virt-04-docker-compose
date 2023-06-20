@@ -13,6 +13,8 @@
 
 ### 2.1. Создайте вашу первую виртуальную машину в YandexCloud с помощью web-интерфейса YandexCloud.
 
+![](https://github.com/Romera14/05-virt-04-docker-compose/blob/main/Снимок%20экрана%202023-06-21%20в%2001.25.48.png)
+
 ### 2.2.* (Необязательное задание)
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud). Используйте Terraform-код в директории (src/terraform).
 
