@@ -18,6 +18,9 @@
 ### 2.2.* (Необязательное задание)
 Создайте вашу первую виртуальную машину в YandexCloud с помощью Terraform (вместо использования веб-интерфейса YandexCloud). Используйте Terraform-код в директории (src/terraform).
 
+![](https://github.com/Romera14/05-virt-04-docker-compose/blob/main/Снимок%20экрана%202023-06-21%20в%2002.31.05.png)
+![](https://github.com/Romera14/05-virt-04-docker-compose/blob/main/Снимок%20экрана%202023-06-21%20в%2002.31.20.png)
+
 Чтобы получить зачёт, вам нужно предоставить вывод команды terraform apply и страницы свойств, созданной ВМ из личного кабинета YandexCloud.
 
 ## Задача 3
