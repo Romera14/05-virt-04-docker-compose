@@ -4,12 +4,8 @@
 
 ### Создайте собственный образ любой операционной системы (например ubuntu-20.04) с помощью Packer (инструкция).
 
-Не понимаю откуда он берет образы. 
-```
-==> yandex: Creating temporary RSA SSH key for instance...
-==> yandex: Error getting source image for instance creation: server-request-id = 7599f57a-5525-4c6b-807a-f5d7a5475523 server-trace-id = 2d9a0d0583337fc:37dee3ee938f07c0:2d9a0d0583337fc:1 client-request-id = 25eee99c-c1f3-4d53-8ace-da4f4408b9c4 client-trace-id = e3798c2d-15a3-462f-a01b-802c7a446a70 rpc error: code = NotFound desc = Image "centos-8" not found
-Build 'yandex' errored after 15 seconds 852 milliseconds: Error getting source image for instance creation: server-request-id = 7599f57a-5525-4c6b-807a-f5d7a5475523 server-trace-id = 2d9a0d0583337fc:37dee3ee938f07c0:2d9a0d0583337fc:1 client-request-id = 25eee99c-c1f3-4d53-8ace-da4f4408b9c4 client-trace-id = e3798c2d-15a3-462f-a01b-802c7a446a70 rpc error: code = NotFound desc = Image "centos-8" not found
-```
+![](https://github.com/Romera14/05-virt-04-docker-compose/blob/main/Снимок%20экрана%202023-06-21%20в%2001.14.14.png)
+![](https://github.com/Romera14/05-virt-04-docker-compose/blob/main/Снимок%20экрана%202023-06-21%20в%2001.21.00.png)
 
 Чтобы получить зачёт, вам нужно предоставить скриншот страницы с созданным образом из личного кабинета YandexCloud.
 
